@@ -1,0 +1,12 @@
+C:\l-p\CustomerService\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.deps.json
+C:\l-p\CustomerService\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.dll
+C:\l-p\CustomerService\CustomerService.Domain\bin\Debug\net5.0\ref\CustomerService.Domain.dll
+C:\l-p\CustomerService\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.pdb
+C:\l-p\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.csprojAssemblyReference.cache
+C:\l-p\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\l-p\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.AssemblyInfoInputs.cache
+C:\l-p\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.AssemblyInfo.cs
+C:\l-p\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.csproj.CoreCompileInputs.cache
+C:\l-p\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.dll
+C:\l-p\CustomerService\CustomerService.Domain\obj\Debug\net5.0\ref\CustomerService.Domain.dll
+C:\l-p\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.pdb

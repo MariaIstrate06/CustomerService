@@ -1,0 +1,15 @@
+C:\l-p\CustomerService\CustomerService.DataAccess\bin\Debug\net5.0\CustomerService.Domain.dll
+C:\l-p\CustomerService\CustomerService.DataAccess\obj\Debug\net5.0\CustomerService.DataAccess.csprojAssemblyReference.cache
+C:\l-p\CustomerService\CustomerService.DataAccess\obj\Debug\net5.0\CustomerService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\l-p\CustomerService\CustomerService.DataAccess\obj\Debug\net5.0\CustomerService.DataAccess.AssemblyInfoInputs.cache
+C:\l-p\CustomerService\CustomerService.DataAccess\obj\Debug\net5.0\CustomerService.DataAccess.AssemblyInfo.cs
+C:\l-p\CustomerService\CustomerService.DataAccess\bin\Debug\net5.0\CustomerService.DataAccess.deps.json
+C:\l-p\CustomerService\CustomerService.DataAccess\bin\Debug\net5.0\CustomerService.DataAccess.dll
+C:\l-p\CustomerService\CustomerService.DataAccess\bin\Debug\net5.0\ref\CustomerService.DataAccess.dll
+C:\l-p\CustomerService\CustomerService.DataAccess\bin\Debug\net5.0\CustomerService.DataAccess.pdb
+C:\l-p\CustomerService\CustomerService.DataAccess\bin\Debug\net5.0\CustomerService.Domain.pdb
+C:\l-p\CustomerService\CustomerService.DataAccess\obj\Debug\net5.0\CustomerService.DataAccess.csproj.CoreCompileInputs.cache
+C:\l-p\CustomerService\CustomerService.DataAccess\obj\Debug\net5.0\CustomerService.DataAccess.csproj.CopyComplete
+C:\l-p\CustomerService\CustomerService.DataAccess\obj\Debug\net5.0\CustomerService.DataAccess.dll
+C:\l-p\CustomerService\CustomerService.DataAccess\obj\Debug\net5.0\ref\CustomerService.DataAccess.dll
+C:\l-p\CustomerService\CustomerService.DataAccess\obj\Debug\net5.0\CustomerService.DataAccess.pdb
