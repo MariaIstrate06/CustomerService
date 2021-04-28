@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xov5GRRER+V609kNX7qnGeicUQjmB8rP6CZVw7CwGpn2hxBCyrPVpLTLvAWuh4r/Dum/W6me6rVfPz2+GDfj7A==",
+  "dgSpecHash": "VT0RX0Eo48DJxx8GfuKgh+lO9bOFnrWf7VkW4f6MSJepQNK9fLXqk0NYNeOW1Xzb/Jwd9OebXPnhu27H7XhNAg==",
   "success": true,
-  "projectFilePath": "C:\\l-p\\CustomerService\\CustomerService.WebAPI\\CustomerService.WebAPI.csproj",
+  "projectFilePath": "C:\\l-p\\Project\\CustomerService\\CustomerService.WebAPI\\CustomerService.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mistrate\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.5\\microsoft.data.sqlite.core.5.0.5.nupkg.sha512",
     "C:\\Users\\mistrate\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

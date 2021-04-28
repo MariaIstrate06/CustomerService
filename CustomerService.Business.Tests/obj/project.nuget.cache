@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ki5Iba2Wsi+Y7lwgajxQOythQgueBsuhlGlh+7ho8ccfFrLdZGHOkliVKOLT3aegCnOKjlFqCSz0UqCkJdwf/g==",
+  "dgSpecHash": "PybAckkuemtXqKOHEi8am7GOrZljg8OSX8ZFSrFzd46REryuYVKtNCj3QxGGEOsW4dYlx5aJHYd38iMWQCpvUA==",
   "success": true,
-  "projectFilePath": "C:\\l-p\\CustomerService\\CustomerService.Business.Tests\\CustomerService.Business.Tests.csproj",
+  "projectFilePath": "C:\\l-p\\Project\\CustomerService\\CustomerService.Business.Tests\\CustomerService.Business.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mistrate\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\mistrate\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

@@ -6,8 +6,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CustomerService.Web;
+using CustomerService.WebAPI;
 
-namespace CustomerService.Web
+namespace CustomerService.WebAPI
 {
     public class Program
     {
