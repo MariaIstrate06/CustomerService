@@ -22,3 +22,15 @@ C:\l-p\Project\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerS
 C:\l-p\Project\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.dll
 C:\l-p\Project\CustomerService\CustomerService.Domain\obj\Debug\net5.0\ref\CustomerService.Domain.dll
 C:\l-p\Project\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.pdb
+C:\Work\Projects\CustomerService\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.deps.json
+C:\Work\Projects\CustomerService\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.dll
+C:\Work\Projects\CustomerService\CustomerService.Domain\bin\Debug\net5.0\ref\CustomerService.Domain.dll
+C:\Work\Projects\CustomerService\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.pdb
+C:\Work\Projects\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Projects\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.AssemblyInfoInputs.cache
+C:\Work\Projects\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.AssemblyInfo.cs
+C:\Work\Projects\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.csproj.CoreCompileInputs.cache
+C:\Work\Projects\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.dll
+C:\Work\Projects\CustomerService\CustomerService.Domain\obj\Debug\net5.0\ref\CustomerService.Domain.dll
+C:\Work\Projects\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.pdb
+C:\Work\Projects\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.csprojAssemblyReference.cache

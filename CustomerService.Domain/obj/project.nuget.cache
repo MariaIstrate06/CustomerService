@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yZJKTs3dwD77EAYEkJdyxhzPntfLNxuk0/2/ULbP42TVLyim6mMs5mFjR1jleJp9D51lZrihJsCr4/h3nFiE+Q==",
+  "dgSpecHash": "/+UPp8vZHvp+ZSJiqO031pIgwfSfqedEeRLNZWUkA50WYsFexOztswBF03cws6q4vcX9vQbRdHEfOoLVI/6Bbg==",
   "success": true,
-  "projectFilePath": "C:\\l-p\\Project\\CustomerService\\CustomerService.Domain\\CustomerService.Domain.csproj",
+  "projectFilePath": "C:\\Work\\Projects\\CustomerService\\CustomerService.Domain\\CustomerService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

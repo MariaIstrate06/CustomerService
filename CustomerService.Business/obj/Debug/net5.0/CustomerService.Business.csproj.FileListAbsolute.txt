@@ -10,3 +10,15 @@ C:\l-p\CustomerService\CustomerService.Business\obj\Debug\net5.0\CustomerService
 C:\l-p\CustomerService\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.dll
 C:\l-p\CustomerService\CustomerService.Business\obj\Debug\net5.0\ref\CustomerService.Business.dll
 C:\l-p\CustomerService\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.pdb
+C:\Work\Projects\CustomerService\CustomerService.Business\bin\Debug\net5.0\CustomerService.Business.deps.json
+C:\Work\Projects\CustomerService\CustomerService.Business\bin\Debug\net5.0\CustomerService.Business.dll
+C:\Work\Projects\CustomerService\CustomerService.Business\bin\Debug\net5.0\ref\CustomerService.Business.dll
+C:\Work\Projects\CustomerService\CustomerService.Business\bin\Debug\net5.0\CustomerService.Business.pdb
+C:\Work\Projects\CustomerService\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Projects\CustomerService\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.AssemblyInfoInputs.cache
+C:\Work\Projects\CustomerService\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.AssemblyInfo.cs
+C:\Work\Projects\CustomerService\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.csproj.CoreCompileInputs.cache
+C:\Work\Projects\CustomerService\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.dll
+C:\Work\Projects\CustomerService\CustomerService.Business\obj\Debug\net5.0\ref\CustomerService.Business.dll
+C:\Work\Projects\CustomerService\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.pdb
+C:\Work\Projects\CustomerService\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.csprojAssemblyReference.cache

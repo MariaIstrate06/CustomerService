@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 
 namespace CustomerService.DataAccess
 {
-    public class CustomerRepository:ICustomerRespository
+    public class CustomerRepository : ICustomerRepository
     {
         private readonly CustomersDbContext _Context;
         private readonly ILogger _Logger;

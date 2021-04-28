@@ -1,20 +1,13 @@
+using System;
 using CustomerService.DataAccess;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.SpaServices.AngularCli;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Antiforgery;
-using Microsoft.AspNetCore.Http;
 
 namespace CustomerService.Web
 {
@@ -30,27 +23,13 @@ namespace CustomerService.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //Add PostgreSQL support
-            //services.AddDbContext<CustomersDbContext>(options => {
-            //    options.UseNpgsql(Configuration.GetConnectionString("CustomersPostgresConnectionString"));
-            //});
-
             //Add SQL Server support
-            //services.AddDbContext<CustomersDbContext>(options => {
-            //    options.UseSqlServer(Configuration.GetConnectionString("CustomersSqlServerConnectionString"));
-            //});
-
-            //Add SqLite support
-            services.AddDbContext<CustomersDbContext>(options => {
-                options.UseSqlite(Configuration.GetConnectionString("CustomersSqliteConnectionString"));
+            services.AddDbContext<CustomersDbContext>(options =>
+            {
+                options.UseSqlServer(Configuration.GetConnectionString("CustomersSqlServerConnectionString"));
             });
 
             services.AddControllersWithViews();
-
-            // Handle XSRF Name for Header
-            services.AddAntiforgery(options => {
-                options.HeaderName = "X-XSRF-TOKEN";
-            });
 
             //https://github.com/domaindrivendev/Swashbuckle.AspNetCore
             services.AddSwaggerGen(options =>
@@ -68,27 +47,23 @@ namespace CustomerService.Web
             services.AddCors(o => o.AddPolicy("AllowAllPolicy", options =>
             {
                 options.AllowAnyOrigin()
-                        .AllowAnyMethod()
-                        .AllowAnyHeader()
-                        .WithExposedHeaders("X-InlineCount");
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .WithExposedHeaders("X-InlineCount");
             }));
 
             services.AddCors(o => o.AddPolicy("AllowSpecific", options =>
-                    options.WithOrigins("http://localhost:4200")
-                           .WithMethods("GET", "POST", "PUT", "PATCH", "DELETE")
-                           .WithHeaders("accept", "content-type", "origin", "X-InlineCount")
-                           .WithExposedHeaders("X-InlineCount")));
+                options.WithOrigins("http://localhost:4200")
+                    .WithMethods("GET", "POST", "PUT", "PATCH", "DELETE")
+                    .WithHeaders("accept", "content-type", "origin", "X-InlineCount")
+                    .WithExposedHeaders("X-InlineCount")));
 
-            services.AddScoped<ICustomerRespository, CustomerRepository>();
+            services.AddScoped<ICustomerRepository, CustomerRepository>();
             services.AddScoped<IStatesRepository, StatesRepository>();
-            services.AddTransient<CustomersDbSeeder>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app,
-            IWebHostEnvironment env,
-            CustomersDbSeeder customersDbSeeder,
-            IAntiforgery antiforgery)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
             {
@@ -96,13 +71,19 @@ namespace CustomerService.Web
             }
             else
             {
-                app.UseExceptionHandler("/Home/Error");
+                app.UseExceptionHandler("/Error");
+                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+                app.UseHsts();
+            }
+            app.UseCors("AllowAllPolicy");
+            app.UseHttpsRedirection();
+            app.UseStaticFiles();
+            if (!env.IsDevelopment())
+            {
+                app.UseSpaStaticFiles();
             }
 
-            // This would need to be locked down as needed (very open right now)
             app.UseCors("AllowAllPolicy");
-
-            app.UseStaticFiles();
 
             // Enable middleware to serve generated Swagger as a JSON endpoint
             app.UseSwagger();
@@ -114,38 +95,28 @@ namespace CustomerService.Web
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
             });
 
-            // Manually handle setting XSRF cookie. Needed because HttpOnly 
-            // has to be set to false so that Angular is able to read/access the cookie.
-            app.Use((context, next) =>
-            {
-                string path = context.Request.Path.Value;
-                if (path != null && !path.ToLower().Contains("/api"))
-                {
-                    var tokens = antiforgery.GetAndStoreTokens(context);
-                    context.Response.Cookies.Append("XSRF-TOKEN",
-                        tokens.RequestToken, new CookieOptions { HttpOnly = false }
-                    );
-                }
-
-                return next();
-            });
-
-            // For 3.0
+       
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers();
-
                 endpoints.MapControllerRoute(
-                     name: "default",
-                     pattern: "{controller}/{action}/{id?}");
-
-                // Handle redirecting client-side routes to Customers/Index route
-                endpoints.MapFallbackToController("Index", "Home");
+                    name: "default",
+                    pattern: "{controller}/{action=Index}/{id?}");
             });
 
-            customersDbSeeder.SeedAsync(app.ApplicationServices).Wait();
+            app.UseSpa(spa =>
+            {
+                // To learn more about options for serving an Angular SPA from ASP.NET Core,
+                // see https://go.microsoft.com/fwlink/?linkid=864501
+
+                spa.Options.SourcePath = "Client";
+
+                if (env.IsDevelopment())
+                {
+                    spa.UseAngularCliServer(npmScript: "start");
+                }
+            });
         }
     }
 }
