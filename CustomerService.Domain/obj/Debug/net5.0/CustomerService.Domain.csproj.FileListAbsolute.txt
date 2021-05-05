@@ -49,3 +49,17 @@ C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Dom
 C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.pdb
 C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.genruntimeconfig.cache
 C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.csprojAssemblyReference.cache
+C:\Work\Projects\CustomerService\test\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.deps.json
+C:\Work\Projects\CustomerService\test\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.runtimeconfig.json
+C:\Work\Projects\CustomerService\test\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.runtimeconfig.dev.json
+C:\Work\Projects\CustomerService\test\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.dll
+C:\Work\Projects\CustomerService\test\CustomerService.Domain\bin\Debug\net5.0\ref\CustomerService.Domain.dll
+C:\Work\Projects\CustomerService\test\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.pdb
+C:\Work\Projects\CustomerService\test\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Projects\CustomerService\test\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.AssemblyInfoInputs.cache
+C:\Work\Projects\CustomerService\test\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.AssemblyInfo.cs
+C:\Work\Projects\CustomerService\test\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.csproj.CoreCompileInputs.cache
+C:\Work\Projects\CustomerService\test\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.dll
+C:\Work\Projects\CustomerService\test\CustomerService.Domain\obj\Debug\net5.0\ref\CustomerService.Domain.dll
+C:\Work\Projects\CustomerService\test\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.pdb
+C:\Work\Projects\CustomerService\test\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.genruntimeconfig.cache

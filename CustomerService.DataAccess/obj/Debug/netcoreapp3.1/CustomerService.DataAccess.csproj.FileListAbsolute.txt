@@ -1,0 +1,12 @@
+C:\Work\Projects\CustomerService\test\CustomerService.DataAccess\bin\Debug\netcoreapp3.1\CustomerService.DataAccess.deps.json
+C:\Work\Projects\CustomerService\test\CustomerService.DataAccess\bin\Debug\netcoreapp3.1\CustomerService.DataAccess.dll
+C:\Work\Projects\CustomerService\test\CustomerService.DataAccess\bin\Debug\netcoreapp3.1\CustomerService.DataAccess.pdb
+C:\Work\Projects\CustomerService\test\CustomerService.DataAccess\bin\Debug\netcoreapp3.1\CustomerService.Domain.dll
+C:\Work\Projects\CustomerService\test\CustomerService.DataAccess\bin\Debug\netcoreapp3.1\CustomerService.Domain.pdb
+C:\Work\Projects\CustomerService\test\CustomerService.DataAccess\obj\Debug\netcoreapp3.1\CustomerService.DataAccess.csprojAssemblyReference.cache
+C:\Work\Projects\CustomerService\test\CustomerService.DataAccess\obj\Debug\netcoreapp3.1\CustomerService.DataAccess.AssemblyInfoInputs.cache
+C:\Work\Projects\CustomerService\test\CustomerService.DataAccess\obj\Debug\netcoreapp3.1\CustomerService.DataAccess.AssemblyInfo.cs
+C:\Work\Projects\CustomerService\test\CustomerService.DataAccess\obj\Debug\netcoreapp3.1\CustomerService.DataAccess.csproj.CoreCompileInputs.cache
+C:\Work\Projects\CustomerService\test\CustomerService.DataAccess\obj\Debug\netcoreapp3.1\CustomerService.DataAccess.csproj.CopyComplete
+C:\Work\Projects\CustomerService\test\CustomerService.DataAccess\obj\Debug\netcoreapp3.1\CustomerService.DataAccess.dll
+C:\Work\Projects\CustomerService\test\CustomerService.DataAccess\obj\Debug\netcoreapp3.1\CustomerService.DataAccess.pdb

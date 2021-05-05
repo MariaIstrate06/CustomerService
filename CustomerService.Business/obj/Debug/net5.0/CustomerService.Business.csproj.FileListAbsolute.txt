@@ -37,3 +37,17 @@ C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Bus
 C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business\obj\Debug\net5.0\ref\CustomerService.Business.dll
 C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.pdb
 C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.genruntimeconfig.cache
+C:\Work\Projects\CustomerService\test\CustomerService.Business\bin\Debug\net5.0\CustomerService.Business.deps.json
+C:\Work\Projects\CustomerService\test\CustomerService.Business\bin\Debug\net5.0\CustomerService.Business.runtimeconfig.json
+C:\Work\Projects\CustomerService\test\CustomerService.Business\bin\Debug\net5.0\CustomerService.Business.runtimeconfig.dev.json
+C:\Work\Projects\CustomerService\test\CustomerService.Business\bin\Debug\net5.0\CustomerService.Business.dll
+C:\Work\Projects\CustomerService\test\CustomerService.Business\bin\Debug\net5.0\ref\CustomerService.Business.dll
+C:\Work\Projects\CustomerService\test\CustomerService.Business\bin\Debug\net5.0\CustomerService.Business.pdb
+C:\Work\Projects\CustomerService\test\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Projects\CustomerService\test\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.AssemblyInfoInputs.cache
+C:\Work\Projects\CustomerService\test\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.AssemblyInfo.cs
+C:\Work\Projects\CustomerService\test\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.csproj.CoreCompileInputs.cache
+C:\Work\Projects\CustomerService\test\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.dll
+C:\Work\Projects\CustomerService\test\CustomerService.Business\obj\Debug\net5.0\ref\CustomerService.Business.dll
+C:\Work\Projects\CustomerService\test\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.pdb
+C:\Work\Projects\CustomerService\test\CustomerService.Business\obj\Debug\net5.0\CustomerService.Business.genruntimeconfig.cache

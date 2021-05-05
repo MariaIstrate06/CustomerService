@@ -1,0 +1,8 @@
+C:\Work\Projects\CustomerService\test\CustomerService.Business\bin\Debug\netcoreapp3.1\CustomerService.Business.deps.json
+C:\Work\Projects\CustomerService\test\CustomerService.Business\bin\Debug\netcoreapp3.1\CustomerService.Business.dll
+C:\Work\Projects\CustomerService\test\CustomerService.Business\bin\Debug\netcoreapp3.1\CustomerService.Business.pdb
+C:\Work\Projects\CustomerService\test\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.AssemblyInfoInputs.cache
+C:\Work\Projects\CustomerService\test\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.AssemblyInfo.cs
+C:\Work\Projects\CustomerService\test\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.csproj.CoreCompileInputs.cache
+C:\Work\Projects\CustomerService\test\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.dll
+C:\Work\Projects\CustomerService\test\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.pdb

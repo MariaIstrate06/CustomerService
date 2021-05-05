@@ -14,6 +14,5 @@ namespace CustomerService.DataAccess
         Task<Customer> InsertCustomerAsync(Customer customer);
         Task<bool> UpdateCustomerAsync(Customer customer);
         Task<bool> DeleteCustomerAsync(int id);
-        Task InsertCustomerAsync(Customer customer);
     }
 }
