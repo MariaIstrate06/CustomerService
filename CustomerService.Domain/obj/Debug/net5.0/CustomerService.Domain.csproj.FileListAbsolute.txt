@@ -34,3 +34,18 @@ C:\Work\Projects\CustomerService\CustomerService.Domain\obj\Debug\net5.0\Custome
 C:\Work\Projects\CustomerService\CustomerService.Domain\obj\Debug\net5.0\ref\CustomerService.Domain.dll
 C:\Work\Projects\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.pdb
 C:\Work\Projects\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.csprojAssemblyReference.cache
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.deps.json
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.runtimeconfig.json
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.runtimeconfig.dev.json
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.dll
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\bin\Debug\net5.0\ref\CustomerService.Domain.dll
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\bin\Debug\net5.0\CustomerService.Domain.pdb
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.AssemblyInfoInputs.cache
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.AssemblyInfo.cs
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.dll
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\obj\Debug\net5.0\ref\CustomerService.Domain.dll
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.pdb
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.genruntimeconfig.cache
+C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Domain\obj\Debug\net5.0\CustomerService.Domain.csprojAssemblyReference.cache
