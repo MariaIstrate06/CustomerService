@@ -1,399 +1,113 @@
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\testhost.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\testhost.exe
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.deps.json
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.runtimeconfig.json
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.runtimeconfig.dev.json
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ref\CustomerService.Business.Tests.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.pdb
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.csprojAssemblyReference.cache
-C:\l-p\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\l-p\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.AssemblyInfoInputs.cache
-C:\l-p\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.AssemblyInfo.cs
-C:\l-p\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.csproj.CoreCompileInputs.cache
-C:\l-p\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.csproj.CopyComplete
-C:\l-p\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\ref\CustomerService.Business.Tests.dll
-C:\l-p\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.pdb
-C:\l-p\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.genruntimeconfig.cache
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\testhost.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\testhost.exe
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.deps.json
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.runtimeconfig.json
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.runtimeconfig.dev.json
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ref\CustomerService.Business.Tests.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.pdb
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.csprojAssemblyReference.cache
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.AssemblyInfoInputs.cache
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.AssemblyInfo.cs
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.csproj.CoreCompileInputs.cache
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.csproj.CopyComplete
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\ref\CustomerService.Business.Tests.dll
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.pdb
-C:\Work\Projects\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.genruntimeconfig.cache
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\testhost.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\testhost.exe
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.deps.json
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.runtimeconfig.json
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.runtimeconfig.dev.json
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ref\CustomerService.Business.Tests.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.pdb
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Humanizer.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.csprojAssemblyReference.cache
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.AssemblyInfoInputs.cache
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.AssemblyInfo.cs
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.csproj.CoreCompileInputs.cache
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.csproj.CopyComplete
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\ref\CustomerService.Business.Tests.dll
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.pdb
-C:\Users\mistrate\OneDrive - Centric\Desktop\CustomerService\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.genruntimeconfig.cache
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\testhost.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\testhost.exe
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.deps.json
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.runtimeconfig.json
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.runtimeconfig.dev.json
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ref\CustomerService.Business.Tests.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.pdb
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.AssemblyInfoInputs.cache
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.AssemblyInfo.cs
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.csproj.CoreCompileInputs.cache
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.csproj.CopyComplete
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\obj\Debug\net5.0\ref\CustomerService.Business.Tests.dll
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.pdb
-C:\Work\Projects\CustomerService\test\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.genruntimeconfig.cache
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\testhost.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\testhost.exe
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.deps.json
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.runtimeconfig.json
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.runtimeconfig.dev.json
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ref\CustomerService.Business.Tests.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\CustomerService.Business.Tests.pdb
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Humanizer.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\project\CustomerService.Business.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\project\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.csprojAssemblyReference.cache
+C:\project\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.AssemblyInfoInputs.cache
+C:\project\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.AssemblyInfo.cs
+C:\project\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.csproj.CoreCompileInputs.cache
+C:\project\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.csproj.CopyComplete
+C:\project\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.dll
+C:\project\CustomerService.Business.Tests\obj\Debug\net5.0\ref\CustomerService.Business.Tests.dll
+C:\project\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.pdb
+C:\project\CustomerService.Business.Tests\obj\Debug\net5.0\CustomerService.Business.Tests.genruntimeconfig.cache

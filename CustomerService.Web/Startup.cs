@@ -24,10 +24,13 @@ namespace CustomerService.Web
         public void ConfigureServices(IServiceCollection services)
         {
             //Add SQL Server support
+
+            //services.AddDbContext<CustomersDbContext>(options =>
+            //{
+            //    options.UseSqlServer(Configuration.GetConnectionString("CustomersSqlServerConnectionString"));
+            //});
             services.AddDbContext<CustomersDbContext>(options =>
-            {
-                options.UseSqlServer(Configuration.GetConnectionString("CustomersSqlServerConnectionString"));
-            });
+                options.UseSqlServer(@"Server=localhost;Database=master;Trusted_Connection=True;"));
 
             services.AddControllersWithViews();
 
