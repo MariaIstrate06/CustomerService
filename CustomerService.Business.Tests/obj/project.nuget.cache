@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dDQ/3X02xzCtH9iK5Yc7VdLTSUhUtNclRGvEOhD2J1IA72hewSEpMUwa/JoWuXxLj0cVJ6NsW2NP5LmKx97w9Q==",
+  "dgSpecHash": "7TrG4psqLMKeEwwwH8C8q5APoyhqs+GROubn0uL1bFFGjQWl98L3lWL7UYmzFyNeedMGv6SdnwaCKww202lXHw==",
   "success": true,
-  "projectFilePath": "C:\\project\\CustomerService.Business.Tests\\CustomerService.Business.Tests.csproj",
+  "projectFilePath": "C:\\my-project\\CustomerService\\CustomerService.Business.Tests\\CustomerService.Business.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mistrate\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\mistrate\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

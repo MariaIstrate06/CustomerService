@@ -22,7 +22,9 @@ namespace CustomerService.DataAccess
 
         public async Task<List<State>> GetStatesAsync()
         {
+            var con = _Context.States.OrderBy(s => s.Abbreviation).ToListAsync().Result;
             return await _Context.States.OrderBy(s => s.Abbreviation).ToListAsync();
+            
         }
     }
 }

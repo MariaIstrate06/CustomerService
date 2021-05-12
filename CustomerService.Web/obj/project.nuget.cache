@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u9nZ8DYDkdOyC43qeUQeTUooM619xheuowy/qiGf4pB/vrJOkT1ImpJ/FTq5VltWmr/wSlZn5ayRjUc2embmrQ==",
+  "dgSpecHash": "5BI6Ch/f0JIqqP3HWyhalZzdny1C9B7nktzEcGEdQxgb9Os2d6CaoD3/9uIoWwaF/j9iGnFjz6yOrOgD6UBPag==",
   "success": true,
-  "projectFilePath": "C:\\project\\CustomerService.Web\\CustomerService.Web.csproj",
+  "projectFilePath": "C:\\my-project\\CustomerService\\CustomerService.Web\\CustomerService.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mistrate\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mistrate\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.14\\microsoft.aspnetcore.nodeservices.3.1.14.nupkg.sha512",

@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CustomerService.DataAccess.Migrations
 {
     [DbContext(typeof(CustomersDbContext))]
-    [Migration("20210506151721_Initial")]
-    partial class Initial
+    [Migration("20210511085345_Customer-Service")]
+    partial class CustomerService
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

@@ -39,6 +39,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _customers_customers_grid_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./customers/customers-grid.component */ "./src/app/customers/customers-grid.component.ts");
 /* harmony import */ var _customers_customer_edit_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./customers/customer-edit.component */ "./src/app/customers/customer-edit.component.ts");
 /* harmony import */ var _customers_customer_edit_reactive_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./customers/customer-edit-reactive.component */ "./src/app/customers/customer-edit-reactive.component.ts");
+/* harmony import */ var _orders_orders_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./orders/orders.component */ "./src/app/orders/orders.component.ts");
 
 
 
@@ -47,11 +48,13 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+
+// import { AddOrderComponent } from './add-order/add-order.component';
 var routes = [
     { path: 'customers', component: _customers_customers_component__WEBPACK_IMPORTED_MODULE_2__["CustomersComponent"] },
     //{ path: 'customers/:id', component: CustomerEditComponent},
+    { path: 'orders', component: _orders_orders_component__WEBPACK_IMPORTED_MODULE_6__["OrdersComponent"] },
     { path: 'customers/:id', component: _customers_customer_edit_reactive_component__WEBPACK_IMPORTED_MODULE_5__["CustomerEditReactiveComponent"] },
-    { path: '**', pathMatch: 'full', redirectTo: '/customers' } //catch any unfound routes and redirect to home page
 ];
 var AppRoutingModule = /** @class */ (function () {
     function AppRoutingModule() {
@@ -85,8 +88,6 @@ var AppRoutingModule = /** @class */ (function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AppComponent", function() { return AppComponent; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
-
 
 
 var AppComponent = /** @class */ (function () {
@@ -95,7 +96,7 @@ var AppComponent = /** @class */ (function () {
     AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(); };
     AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-component"]], decls: 1, vars: 0, template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "router-outlet");
-        } }, directives: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterOutlet"]], encapsulation: 2 });
+        } }, encapsulation: 2 });
     return AppComponent;
 }());
 
@@ -126,10 +127,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _app_routing_module__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./app-routing.module */ "./src/app/app-routing.module.ts");
 /* harmony import */ var _core_core_module__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./core/core.module */ "./src/app/core/core.module.ts");
 /* harmony import */ var _shared_shared_module__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./shared/shared.module */ "./src/app/shared/shared.module.ts");
-/* harmony import */ var _customers_customers_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./customers/customers.component */ "./src/app/customers/customers.component.ts");
-/* harmony import */ var _customers_customers_grid_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./customers/customers-grid.component */ "./src/app/customers/customers-grid.component.ts");
-/* harmony import */ var _customers_customer_edit_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./customers/customer-edit.component */ "./src/app/customers/customer-edit.component.ts");
-/* harmony import */ var _customers_customer_edit_reactive_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./customers/customer-edit-reactive.component */ "./src/app/customers/customer-edit-reactive.component.ts");
+/* harmony import */ var _orders_orders_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./orders/orders.component */ "./src/app/orders/orders.component.ts");
+/* harmony import */ var _customers_customers_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./customers/customers.component */ "./src/app/customers/customers.component.ts");
+/* harmony import */ var _customers_customers_grid_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./customers/customers-grid.component */ "./src/app/customers/customers-grid.component.ts");
+/* harmony import */ var _customers_customer_edit_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./customers/customer-edit.component */ "./src/app/customers/customer-edit.component.ts");
+/* harmony import */ var _customers_customer_edit_reactive_component__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./customers/customer-edit-reactive.component */ "./src/app/customers/customer-edit-reactive.component.ts");
 
 
 
@@ -141,6 +143,8 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+
+// import { AddOrderComponent } from './add-order/add-order.component';
 var AppModule = /** @class */ (function () {
     function AppModule() {
     }
@@ -154,7 +158,7 @@ var AppModule = /** @class */ (function () {
     return AppModule;
 }());
 
-(function () { (typeof ngJitMode === "undefined" || ngJitMode) && _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsetNgModuleScope"](AppModule, { declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"], _customers_customers_component__WEBPACK_IMPORTED_MODULE_6__["CustomersComponent"], _customers_customers_grid_component__WEBPACK_IMPORTED_MODULE_7__["CustomersGridComponent"], _customers_customer_edit_component__WEBPACK_IMPORTED_MODULE_8__["CustomerEditComponent"], _customers_customer_edit_reactive_component__WEBPACK_IMPORTED_MODULE_9__["CustomerEditReactiveComponent"]], imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"],
+(function () { (typeof ngJitMode === "undefined" || ngJitMode) && _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsetNgModuleScope"](AppModule, { declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"], _customers_customers_component__WEBPACK_IMPORTED_MODULE_7__["CustomersComponent"], _customers_customers_grid_component__WEBPACK_IMPORTED_MODULE_8__["CustomersGridComponent"], _customers_customer_edit_component__WEBPACK_IMPORTED_MODULE_9__["CustomerEditComponent"], _customers_customer_edit_reactive_component__WEBPACK_IMPORTED_MODULE_10__["CustomerEditReactiveComponent"], _orders_orders_component__WEBPACK_IMPORTED_MODULE_6__["OrdersComponent"]], imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"],
         _app_routing_module__WEBPACK_IMPORTED_MODULE_3__["AppRoutingModule"],
         _core_core_module__WEBPACK_IMPORTED_MODULE_4__["CoreModule"],
         _shared_shared_module__WEBPACK_IMPORTED_MODULE_5__["SharedModule"] //Shared (multi-instance) objects
@@ -168,7 +172,7 @@ var AppModule = /** @class */ (function () {
                     _core_core_module__WEBPACK_IMPORTED_MODULE_4__["CoreModule"],
                     _shared_shared_module__WEBPACK_IMPORTED_MODULE_5__["SharedModule"] //Shared (multi-instance) objects
                 ],
-                declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"], _app_routing_module__WEBPACK_IMPORTED_MODULE_3__["AppRoutingModule"].components],
+                declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"], _app_routing_module__WEBPACK_IMPORTED_MODULE_3__["AppRoutingModule"].components, _orders_orders_component__WEBPACK_IMPORTED_MODULE_6__["OrdersComponent"]],
                 bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"]]
             }]
     }], null, null); })();
@@ -331,6 +335,7 @@ var DataService = /** @class */ (function () {
         this.baseUrl = _environments_environment__WEBPACK_IMPORTED_MODULE_4__["environment"].apiUrl;
         this.baseCustomersUrl = this.baseUrl + 'customers';
         this.baseStatesUrl = this.baseUrl + 'states';
+        this.baseOrderUrl = this.baseUrl + 'orders';
     }
     DataService.prototype.getCustomers = function () {
         var _this = this;
@@ -338,6 +343,14 @@ var DataService = /** @class */ (function () {
             .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["map"])(function (customers) {
             _this.calculateCustomersOrderTotal(customers);
             return customers;
+        }), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
+    };
+    DataService.prototype.getOrders = function () {
+        var _this = this;
+        return this.http.get(this.baseOrderUrl)
+            .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["map"])(function (orders) {
+            _this.calculateOrdersTotal(orders);
+            return orders;
         }), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
     };
     DataService.prototype.getCustomersPage = function (page, pageSize) {
@@ -354,15 +367,40 @@ var DataService = /** @class */ (function () {
             };
         }), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
     };
+    DataService.prototype.getOrdersPage = function (page, pageSize) {
+        var _this = this;
+        return this.http.get(this.baseOrderUrl + "/page/" + page + "/" + pageSize, { observe: 'response' })
+            .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["map"])(function (res) {
+            //Need to observe response in order to get to this header (see {observe: 'response'} above)
+            var totalRecords = +res.headers.get('x-inlinecount');
+            var orders = res.body;
+            _this.calculateOrdersTotal(orders);
+            return {
+                results: orders,
+                totalRecords: totalRecords
+            };
+        }), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
+    };
     DataService.prototype.getCustomer = function (id) {
         return this.http.get(this.baseCustomersUrl + '/' + id)
             .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
     };
+    DataService.prototype.getOrder = function (id) {
+        return this.http.get(this.baseOrderUrl + '/' + id)
+            .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
+    };
     DataService.prototype.insertCustomer = function (customer) {
-        return this.http.post(this.baseCustomersUrl, customer)
+        return this.http.post(this.baseCustomersUrl + "/insert", customer)
             .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["map"])(function (data) {
             console.log('insertCustomer status: ' + data.status);
             return data.customer;
+        }), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
+    };
+    DataService.prototype.insertOrder = function (order) {
+        return this.http.post(this.baseOrderUrl, order)
+            .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["map"])(function (data) {
+            console.log('insertOrder status: ' + data.status);
+            return data.order;
         }), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
     };
     DataService.prototype.updateCustomer = function (customer) {
@@ -372,8 +410,19 @@ var DataService = /** @class */ (function () {
             return data.customer;
         }), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
     };
+    DataService.prototype.updateOrder = function (order) {
+        return this.http.put(this.baseOrderUrl + '/' + order.product, order)
+            .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["map"])(function (data) {
+            console.log('updateOrder status: ' + data.status);
+            return data.order;
+        }), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
+    };
     DataService.prototype.deleteCustomer = function (id) {
         return this.http.delete(this.baseCustomersUrl + '/' + id)
+            .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
+    };
+    DataService.prototype.deleteOrder = function (id) {
+        return this.http.delete(this.baseOrderUrl + '/' + id)
             .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
     };
     DataService.prototype.getStates = function () {
@@ -390,6 +439,15 @@ var DataService = /** @class */ (function () {
                     total += (order.price * order.quantity);
                 }
                 customer.orderTotal = total;
+            }
+        }
+    };
+    DataService.prototype.calculateOrdersTotal = function (orders) {
+        for (var _i = 0, orders_1 = orders; _i < orders_1.length; _i++) {
+            var order = orders_1[_i];
+            if (order) {
+                var total = 0;
+                order.orderTotal = total;
             }
         }
     };
@@ -1196,14 +1254,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
 /* harmony import */ var _core_sorter__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../core/sorter */ "./src/app/core/sorter.ts");
 /* harmony import */ var _core_trackby_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../core/trackby.service */ "./src/app/core/trackby.service.ts");
-/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/common */ "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
-/* harmony import */ var _shared_pipes_capitalize_pipe__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../shared/pipes/capitalize.pipe */ "./src/app/shared/pipes/capitalize.pipe.ts");
-/* harmony import */ var _shared_pipes_trim_pipe__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../shared/pipes/trim.pipe */ "./src/app/shared/pipes/trim.pipe.ts");
-
-
-
-
 
 
 
@@ -1334,7 +1384,7 @@ var CustomersGridComponent = /** @class */ (function () {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.customers)("ngForTrackBy", ctx.trackby.customer);
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", !ctx.customers.length);
-        } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_3__["NgForOf"], _angular_common__WEBPACK_IMPORTED_MODULE_3__["NgIf"], _angular_router__WEBPACK_IMPORTED_MODULE_4__["RouterLinkWithHref"]], pipes: [_angular_common__WEBPACK_IMPORTED_MODULE_3__["LowerCasePipe"], _shared_pipes_capitalize_pipe__WEBPACK_IMPORTED_MODULE_5__["CapitalizePipe"], _shared_pipes_trim_pipe__WEBPACK_IMPORTED_MODULE_6__["TrimPipe"], _angular_common__WEBPACK_IMPORTED_MODULE_3__["CurrencyPipe"]], encapsulation: 2, changeDetection: 0 });
+        } }, encapsulation: 2, changeDetection: 0 });
     return CustomersGridComponent;
 }());
 
@@ -1467,6 +1517,117 @@ var CustomersComponent = /** @class */ (function () {
         args: [{
                 selector: 'customers',
                 templateUrl: './customers.component.html'
+            }]
+    }], function () { return [{ type: _angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"] }, { type: _core_data_service__WEBPACK_IMPORTED_MODULE_3__["DataService"] }, { type: _core_data_filter_service__WEBPACK_IMPORTED_MODULE_2__["DataFilterService"] }]; }, null); })();
+
+
+/***/ }),
+
+/***/ "./src/app/orders/orders.component.ts":
+/*!********************************************!*\
+  !*** ./src/app/orders/orders.component.ts ***!
+  \********************************************/
+/*! exports provided: OrdersComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "OrdersComponent", function() { return OrdersComponent; });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
+/* harmony import */ var _core_data_filter_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../core/data-filter.service */ "./src/app/core/data-filter.service.ts");
+/* harmony import */ var _core_data_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../core/data.service */ "./src/app/core/data.service.ts");
+/* harmony import */ var _shared_filter_textbox_filter_textbox_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../shared/filter-textbox/filter-textbox.component */ "./src/app/shared/filter-textbox/filter-textbox.component.ts");
+/* harmony import */ var _shared_pagination_pagination_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../shared/pagination/pagination.component */ "./src/app/shared/pagination/pagination.component.ts");
+
+
+
+
+
+
+
+
+
+
+var _c0 = function () { return ["/add-order"]; };
+var OrdersComponent = /** @class */ (function () {
+    function OrdersComponent(router, dataService, dataFilter) {
+        this.router = router;
+        this.dataService = dataService;
+        this.dataFilter = dataFilter;
+        this.orders = [];
+        this.filteredOrders = [];
+        this.totalRecords = 0;
+        this.pageSize = 10;
+    }
+    OrdersComponent.prototype.ngOnInit = function () {
+        this.getOrderPage(1);
+    };
+    OrdersComponent.prototype.filterChanged = function (filterText) {
+        if (filterText && this.orders) {
+            var props = ['Product', 'Quantity', 'Price'];
+            this.filteredOrders = this.dataFilter.filter(this.orders, props, filterText);
+        }
+        else {
+            this.filteredOrders = this.orders;
+        }
+    };
+    OrdersComponent.prototype.pageChanged = function (page) {
+        this.getOrderPage(page);
+    };
+    OrdersComponent.prototype.getOrderPage = function (page) {
+        var _this = this;
+        this.dataService.getOrdersPage((page - 1) * this.pageSize, this.pageSize)
+            .subscribe(function (response) {
+            _this.orders = _this.filteredOrders = response.results;
+            _this.totalRecords = response.totalRecords;
+        }, function (err) { return console.log(err); }, function () { return console.log('getCustomersPage() retrieved customers'); });
+    };
+    OrdersComponent.ɵfac = function OrdersComponent_Factory(t) { return new (t || OrdersComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_core_data_service__WEBPACK_IMPORTED_MODULE_3__["DataService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_core_data_filter_service__WEBPACK_IMPORTED_MODULE_2__["DataFilterService"])); };
+    OrdersComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: OrdersComponent, selectors: [["cm-orders"]], decls: 15, vars: 4, consts: [[1, "customers", "view", "indent"], [1, "container"], [1, "glyphicon", "glyphicon-user"], [1, "row"], [1, "col-md-8"], [1, "navbar"], [3, "changed"], [1, "col-md-4"], [1, "btn", "btn-default", 3, "routerLink"], [3, "totalItems", "pageSize", "pageChanged"]], template: function OrdersComponent_Template(rf, ctx) { if (rf & 1) {
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "header");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "h3");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](4, "span", 2);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](5, " Orders ");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](6, "br");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 3);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "div", 4);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "div", 5);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "filter-textbox", 6);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("changed", function OrdersComponent_Template_filter_textbox_changed_10_listener($event) { return ctx.filterChanged($event); });
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 7);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "a", 8);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, "Add New Order");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "pagination", 9);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("pageChanged", function OrdersComponent_Template_pagination_pageChanged_14_listener($event) { return ctx.pageChanged($event); });
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        } if (rf & 2) {
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](12);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("routerLink", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction0"](3, _c0));
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("totalItems", ctx.totalRecords)("pageSize", ctx.pageSize);
+        } }, directives: [_shared_filter_textbox_filter_textbox_component__WEBPACK_IMPORTED_MODULE_4__["FilterTextboxComponent"], _angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLinkWithHref"], _shared_pagination_pagination_component__WEBPACK_IMPORTED_MODULE_5__["PaginationComponent"]], styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL29yZGVycy9vcmRlcnMuY29tcG9uZW50LmNzcyJ9 */"] });
+    return OrdersComponent;
+}());
+
+/*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](OrdersComponent, [{
+        type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
+        args: [{
+                selector: 'cm-orders',
+                templateUrl: './orders.component.html',
+                styleUrls: ['./orders.component.css']
             }]
     }], function () { return [{ type: _angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"] }, { type: _core_data_service__WEBPACK_IMPORTED_MODULE_3__["DataService"] }, { type: _core_data_filter_service__WEBPACK_IMPORTED_MODULE_2__["DataFilterService"] }]; }, null); })();
 
@@ -1959,7 +2120,7 @@ _angular_platform_browser__WEBPACK_IMPORTED_MODULE_3__["platformBrowser"]().boot
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\project\CustomerService.Web\Client\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\my-project\CustomerService\CustomerService.Web\Client\src\main.ts */"./src/main.ts");
 
 
 /***/ })

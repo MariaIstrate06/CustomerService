@@ -2,7 +2,7 @@
 
 namespace CustomerService.DataAccess.Migrations
 {
-    public partial class Initial : Migration
+    public partial class CustomerService : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

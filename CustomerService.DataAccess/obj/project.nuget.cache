@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RLnjAK8N0Uu8k3+99j7jJDHpYhZcX/y/1DTKyelACxdqZ+QtMFKvmuXkE864HGbYIhXdTQN2STQ7CN3p4W6hww==",
+  "dgSpecHash": "xDrauY9PB4TEzvTvxwIxGtMxDndFwGo2/mCen+hK6tEhh3u5lR87+fbVFC4qQvecSq4DnzRlhFZimFWZpNhBLg==",
   "success": true,
-  "projectFilePath": "C:\\project\\CustomerService.DataAccess\\CustomerService.DataAccess.csproj",
+  "projectFilePath": "C:\\my-project\\CustomerService\\CustomerService.DataAccess\\CustomerService.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mistrate\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mistrate\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

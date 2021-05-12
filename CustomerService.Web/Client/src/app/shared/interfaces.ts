@@ -37,3 +37,8 @@ export interface ICustomerResponse {
     status: boolean;
     customer: ICustomer;
 }
+
+export interface IOrderResponse { 
+    status: BooleanConstructor;
+    order: IOrder; 
+}

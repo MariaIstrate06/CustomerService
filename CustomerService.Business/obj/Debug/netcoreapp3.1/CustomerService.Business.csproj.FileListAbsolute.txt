@@ -10,3 +10,15 @@ C:\project\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Busi
 C:\project\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.dll
 C:\project\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.pdb
 C:\project\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.genruntimeconfig.cache
+C:\my-project\CustomerService\CustomerService.Business\bin\Debug\netcoreapp3.1\CustomerService.Business.deps.json
+C:\my-project\CustomerService\CustomerService.Business\bin\Debug\netcoreapp3.1\CustomerService.Business.runtimeconfig.json
+C:\my-project\CustomerService\CustomerService.Business\bin\Debug\netcoreapp3.1\CustomerService.Business.runtimeconfig.dev.json
+C:\my-project\CustomerService\CustomerService.Business\bin\Debug\netcoreapp3.1\CustomerService.Business.dll
+C:\my-project\CustomerService\CustomerService.Business\bin\Debug\netcoreapp3.1\CustomerService.Business.pdb
+C:\my-project\CustomerService\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.csprojAssemblyReference.cache
+C:\my-project\CustomerService\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.AssemblyInfoInputs.cache
+C:\my-project\CustomerService\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.AssemblyInfo.cs
+C:\my-project\CustomerService\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.csproj.CoreCompileInputs.cache
+C:\my-project\CustomerService\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.dll
+C:\my-project\CustomerService\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.pdb
+C:\my-project\CustomerService\CustomerService.Business\obj\Debug\netcoreapp3.1\CustomerService.Business.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\project\\CustomerService.Web\\CustomerService.Web.csproj": {}
+    "C:\\my-project\\CustomerService\\CustomerService.Web\\CustomerService.Web.csproj": {}
   },
   "projects": {
-    "C:\\project\\CustomerService.DataAccess\\CustomerService.DataAccess.csproj": {
+    "C:\\my-project\\CustomerService\\CustomerService.Business\\CustomerService.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\project\\CustomerService.DataAccess\\CustomerService.DataAccess.csproj",
-        "projectName": "CustomerService.DataAccess",
-        "projectPath": "C:\\project\\CustomerService.DataAccess\\CustomerService.DataAccess.csproj",
+        "projectUniqueName": "C:\\my-project\\CustomerService\\CustomerService.Business\\CustomerService.Business.csproj",
+        "projectName": "CustomerService.Business",
+        "projectPath": "C:\\my-project\\CustomerService\\CustomerService.Business\\CustomerService.Business.csproj",
         "packagesPath": "C:\\Users\\mistrate\\.nuget\\packages\\",
-        "outputPath": "C:\\project\\CustomerService.DataAccess\\obj\\",
+        "outputPath": "C:\\my-project\\CustomerService\\CustomerService.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,87 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\project\\CustomerService.Domain\\CustomerService.Domain.csproj": {
-                "projectPath": "C:\\project\\CustomerService.Domain\\CustomerService.Domain.csproj"
+              "C:\\my-project\\CustomerService\\CustomerService.DataAccess\\CustomerService.DataAccess.csproj": {
+                "projectPath": "C:\\my-project\\CustomerService\\CustomerService.DataAccess\\CustomerService.DataAccess.csproj"
+              },
+              "C:\\my-project\\CustomerService\\CustomerService.Domain\\CustomerService.Domain.csproj": {
+                "projectPath": "C:\\my-project\\CustomerService\\CustomerService.Domain\\CustomerService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\my-project\\CustomerService\\CustomerService.DataAccess\\CustomerService.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\my-project\\CustomerService\\CustomerService.DataAccess\\CustomerService.DataAccess.csproj",
+        "projectName": "CustomerService.DataAccess",
+        "projectPath": "C:\\my-project\\CustomerService\\CustomerService.DataAccess\\CustomerService.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\mistrate\\.nuget\\packages\\",
+        "outputPath": "C:\\my-project\\CustomerService\\CustomerService.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mistrate\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\my-project\\CustomerService\\CustomerService.Domain\\CustomerService.Domain.csproj": {
+                "projectPath": "C:\\my-project\\CustomerService\\CustomerService.Domain\\CustomerService.Domain.csproj"
               }
             }
           }
@@ -96,14 +175,14 @@
         }
       }
     },
-    "C:\\project\\CustomerService.Domain\\CustomerService.Domain.csproj": {
+    "C:\\my-project\\CustomerService\\CustomerService.Domain\\CustomerService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\project\\CustomerService.Domain\\CustomerService.Domain.csproj",
+        "projectUniqueName": "C:\\my-project\\CustomerService\\CustomerService.Domain\\CustomerService.Domain.csproj",
         "projectName": "CustomerService.Domain",
-        "projectPath": "C:\\project\\CustomerService.Domain\\CustomerService.Domain.csproj",
+        "projectPath": "C:\\my-project\\CustomerService\\CustomerService.Domain\\CustomerService.Domain.csproj",
         "packagesPath": "C:\\Users\\mistrate\\.nuget\\packages\\",
-        "outputPath": "C:\\project\\CustomerService.Domain\\obj\\",
+        "outputPath": "C:\\my-project\\CustomerService\\CustomerService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -168,14 +247,14 @@
         }
       }
     },
-    "C:\\project\\CustomerService.Web\\CustomerService.Web.csproj": {
+    "C:\\my-project\\CustomerService\\CustomerService.Web\\CustomerService.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\project\\CustomerService.Web\\CustomerService.Web.csproj",
+        "projectUniqueName": "C:\\my-project\\CustomerService\\CustomerService.Web\\CustomerService.Web.csproj",
         "projectName": "CustomerService.Web",
-        "projectPath": "C:\\project\\CustomerService.Web\\CustomerService.Web.csproj",
+        "projectPath": "C:\\my-project\\CustomerService\\CustomerService.Web\\CustomerService.Web.csproj",
         "packagesPath": "C:\\Users\\mistrate\\.nuget\\packages\\",
-        "outputPath": "C:\\project\\CustomerService.Web\\obj\\",
+        "outputPath": "C:\\my-project\\CustomerService\\CustomerService.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -196,11 +275,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\project\\CustomerService.DataAccess\\CustomerService.DataAccess.csproj": {
-                "projectPath": "C:\\project\\CustomerService.DataAccess\\CustomerService.DataAccess.csproj"
+              "C:\\my-project\\CustomerService\\CustomerService.Business\\CustomerService.Business.csproj": {
+                "projectPath": "C:\\my-project\\CustomerService\\CustomerService.Business\\CustomerService.Business.csproj"
               },
-              "C:\\project\\CustomerService.Domain\\CustomerService.Domain.csproj": {
-                "projectPath": "C:\\project\\CustomerService.Domain\\CustomerService.Domain.csproj"
+              "C:\\my-project\\CustomerService\\CustomerService.DataAccess\\CustomerService.DataAccess.csproj": {
+                "projectPath": "C:\\my-project\\CustomerService\\CustomerService.DataAccess\\CustomerService.DataAccess.csproj"
+              },
+              "C:\\my-project\\CustomerService\\CustomerService.Domain\\CustomerService.Domain.csproj": {
+                "projectPath": "C:\\my-project\\CustomerService\\CustomerService.Domain\\CustomerService.Domain.csproj"
               }
             }
           }

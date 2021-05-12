@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lvF94IjSEOJ3Kt0NFpH7IIG02xYh6EdtV0MCVNtb3mZddQUfbtYr+pH8FmboSCKZYo98xnF+OAj7XPiEqxN03A==",
+  "dgSpecHash": "vLp9fDMjmyx0H7brSsJujKuVlV4YSgVIvq0glvf2ueeKQZYAOOankgVFpyMIAlrqKFEl6o+/Xund/dpRZjDlzg==",
   "success": true,
-  "projectFilePath": "C:\\project\\CustomerService.Domain\\CustomerService.Domain.csproj",
+  "projectFilePath": "C:\\my-project\\CustomerService\\CustomerService.Domain\\CustomerService.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mistrate\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mistrate\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

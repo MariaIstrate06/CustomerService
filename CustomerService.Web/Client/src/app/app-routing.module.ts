@@ -5,12 +5,16 @@ import { CustomersComponent } from './customers/customers.component';
 import { CustomersGridComponent } from './customers/customers-grid.component';
 import { CustomerEditComponent } from './customers/customer-edit.component';
 import { CustomerEditReactiveComponent } from './customers/customer-edit-reactive.component';
+import { OrdersComponent } from './orders/orders.component';
+// import { AddOrderComponent } from './add-order/add-order.component';
 
 const routes: Routes = [
   { path: 'customers', component: CustomersComponent},
   //{ path: 'customers/:id', component: CustomerEditComponent},
+  { path: 'orders', component: OrdersComponent },
   { path: 'customers/:id', component: CustomerEditReactiveComponent },
-  { path: '**', pathMatch:'full', redirectTo: '/customers' } //catch any unfound routes and redirect to home page
+  // { path: 'add-order', component: AddOrderComponent }, 
+  // { path: '**', pathMatch:'full', redirectTo: '/customers' } //catch any unfound routes and redirect to home page
 ];
 
 @NgModule({

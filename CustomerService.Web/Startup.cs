@@ -30,7 +30,7 @@ namespace CustomerService.Web
             //    options.UseSqlServer(Configuration.GetConnectionString("CustomersSqlServerConnectionString"));
             //});
             services.AddDbContext<CustomersDbContext>(options =>
-                options.UseSqlServer(@"Server=localhost;Database=master;Trusted_Connection=True;"));
+                options.UseSqlServer(@"Server=.;Database=CustomerService;Trusted_Connection=True;"));
 
             services.AddControllersWithViews();
 
@@ -62,6 +62,7 @@ namespace CustomerService.Web
                     .WithExposedHeaders("X-InlineCount")));
 
             services.AddScoped<ICustomerRepository, CustomerRepository>();
+            services.AddScoped<IOrderRepository, OrderRepository>();
             services.AddScoped<IStatesRepository, StatesRepository>();
         }
 
@@ -103,9 +104,7 @@ namespace CustomerService.Web
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller}/{action=Index}/{id?}");
+                endpoints.MapControllers();
             });
 
             app.UseSpa(spa =>
@@ -117,7 +116,7 @@ namespace CustomerService.Web
 
                 if (env.IsDevelopment())
                 {
-                    spa.UseAngularCliServer(npmScript: "start");
+                    spa.UseProxyToSpaDevelopmentServer("http://localhost:4200");
                 }
             });
         }

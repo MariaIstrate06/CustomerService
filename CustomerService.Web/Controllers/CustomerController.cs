@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using CustomerService.Business;
 using CustomerService.DataAccess;
 using CustomerService.Domain;
 using CustomerService.Web.Models;
@@ -12,17 +13,19 @@ namespace CustomerService.Web.Controllers
     [Route("api/customers")]
     public class CustomersApiController : Controller
     {
-        ICustomerRepository _CustomersRepository;
-        ILogger _Logger;
+        private ICustomerRepository _CustomersRepository;
+        private ICustomerHandler _CustomersHandler;
+        private ILogger _Logger;
 
-        public CustomersApiController(ICustomerRepository customersRepo, ILoggerFactory loggerFactory)
+        public CustomersApiController(ICustomerRepository customersRepo, ILoggerFactory loggerFactory, ICustomerHandler customerHandler)
         {
             _CustomersRepository = customersRepo;
             _Logger = loggerFactory.CreateLogger(nameof(CustomersApiController));
+            _CustomersHandler = customerHandler;
         }
 
         // GET api/customers
-        [HttpGet]
+        [HttpGet("all")]
         [ProducesResponseType(typeof(List<Customer>), 200)]
         [ProducesResponseType(typeof(ApiResponse), 400)]
         public async Task<ActionResult> Customers()
@@ -47,7 +50,7 @@ namespace CustomerService.Web.Controllers
         {
             try
             {
-                var pagingResult = await _CustomersRepository.GetCustomersPageAsync(skip, take);
+                var pagingResult = await _CustomersHandler.GetCustomers(skip, take);
                 Response.Headers.Add("X-InlineCount", pagingResult.TotalRecords.ToString());
                 return Ok(pagingResult.Records);
             }
@@ -78,7 +81,7 @@ namespace CustomerService.Web.Controllers
         }
 
         // POST api/customers
-        [HttpPost]
+        [HttpPost("insert")]
         // [ValidateAntiForgeryToken]
         [ProducesResponseType(typeof(ApiResponse), 201)]
         [ProducesResponseType(typeof(ApiResponse), 400)]
